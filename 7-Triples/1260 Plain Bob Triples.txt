@@ -1,0 +1,14 @@
+/  1260 Plain Bob Triples
+/  Code M W Thewsey
+
+7 bells
+comp = 5(WMH,H,H,"")
+
+WMH = B,P,P,P,B,B
+H   = P,P,P,P,P,B
+
+P = PB7, +127,  "  @"
+B = PB7, +147,  "- @"
+S = PB7, +12347,"s @"
+
+PB7= +7.1.7.1.7.1.7.1.7.1.7.1.7

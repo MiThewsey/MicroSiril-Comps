@@ -1,0 +1,22 @@
+/  1260 Julie McDonnell Doubles
+/  Code M W Thewsey
+
+5 bells
+11 extents
+
+Comp = 2 PartA, obs5, obs4, a60,l
+
+PartA = obs5, obs4, obs3, obs2
+
+obs2 = 3(P,P,P,B),l
+obs4 = 3(B,P,P,P),l
+obs5 = 3(P,P,B,P),l
+obs3 = 3(P,B,P,P),l
+a60  = 3(B,P)
+
+
+P = JulieMcDonnell, +5.123, "  @"
+B = JulieMcDonnell, +3.123, "- @"
+l = "---------"
+
+JulieMcDonnell = +5.145.125.3.5.3.125.145

@@ -1,0 +1,29 @@
+/  1367 Grandsire Caters
+/  Composed by R Allton
+/  Code M W Thewsey
+
+9 bells
+
+Comp = B,P,P,B,P,P,L,
+       B,B,B,P,P,L,
+       B,B,B,P,P,L,
+       S,B,P,B,P,L,L,
+       B,B,B,P,P,L,
+       B,B,B,P,P,L,
+       S,P,S,B,P,L,L,
+       B,B,B,P,P,L,
+       B,B,B,P,P,L,
+       B,P,B,P,P,P,L,L,
+       S,P,P,S,P,L,
+       B,B,B,P,P,L,
+       B,P,B,S,P,L,L,
+       B,B,B,P,P,L,
+       B,B,B,Grandsire,+9
+ 
+
+P = Grandsire, +9.1,  "  @"
+B = Grandsire, +3.1,  "- @"
+S = Grandsire, +3.123,"s @"
+L = "------------"
+
+Grandsire= +3.1.9.1.9.1.9.1.9.1.9.1.9.1.9.1

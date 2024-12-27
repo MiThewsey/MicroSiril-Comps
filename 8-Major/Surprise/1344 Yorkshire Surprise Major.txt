@@ -1,0 +1,14 @@
+/  1344 Yorkshire Surprise Major
+/  Code M W Thewsey
+
+8 bells
+comp = WH,W,WH,W,WH,W
+
+WH = P,P,P,B,P,P,B
+W  = P,P,P,B,P,P,P
+
+P = Yorkshire, +12,  "  @"
+B = Yorkshire, +14,  "- @"
+S = Yorkshire, +1234,"s @"
+
+Yorkshire = &X38X14X58X16X12X38X14X78

@@ -1,0 +1,19 @@
+/  1282 Cambridge Surprise Royal
+/  Arranged by D Brady
+/  Code M W Thewsey
+
+10 bells
+comp = WH,sM,sMWsH,HC
+
+WH     = P,P,P,P,B,P,P,P,B
+sM     = S,P,P,P,P,P,P,P,P
+sMWsH  = S,P,P,P,B,P,P,P,S
+HC     = P,P,P,P,P,+x30
+
+P = Cambridge, +12,  "  @"
+B = Cambridge, +14,  "- @"
+S = Cambridge, +1234,"s @"
+
+Cambridge = &X30x14x1250x36x1470x58x16x70x18x90
+
+/HC = Half Course

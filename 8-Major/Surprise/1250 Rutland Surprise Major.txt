@@ -1,0 +1,20 @@
+/  1250 Rutland Surprise Major
+/  Code M W Thewsey
+
+8 bells
+
+Comp = H,MBWH,W,WH,MBWH,sW,+x38
+
+
+H    = P,P,P,P,P,P,B
+MBWH = B,P,B,P,B,B
+W    = P,P,P,P,P,B,P
+WH   = P,P,P,P,P,B,B
+sW   = P,P,P,P,P,S
+ 
+
+P = Rutland, +12,  "  @"
+B = Rutland, +14,  "- @"
+S = Rutland, +1234,"s @"
+
+Rutland= &x38x14x58x16x14x38x34x18

@@ -1,0 +1,22 @@
+/  1260 Plain Bob Minor
+/  Code M W Thewsey
+
+6 bells
+2 extents
+
+Comp = Part720, Part540
+
+Part720 = 3 (W,sW,W,sWH),l
+Part540 = 2 (W,sW,W,sWH),H,l
+
+W   = B,P,P,P,P
+H   = P,P,P,P,B
+sW  = S,P,P,P,P
+sWH = S,P,P,P,B
+
+P = PlainBob, +12,  "  @"
+B = PlainBob, +14,  "- @"
+S = PLainBob, +1234,"s @"
+l = "----------"
+
+PlainBob= &x16x16x16

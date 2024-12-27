@@ -1,0 +1,15 @@
+/  1280 Bristol Surprise Major
+/  Code M W Thewsey
+
+8 bells
+
+Comp = 2(WWH,WHH)
+
+WWH = P,P,P,P,P,P,B,B,P,B
+WHH = P,P,P,P,P,P,B,P,B,B
+
+P = Bristol, +18,   "  @"
+B = Bristol, +14,   "- @"
+S = Bristol, +1234, "s @"
+
+Bristol = &x58x14.58x58.36.14x14.58x14x18

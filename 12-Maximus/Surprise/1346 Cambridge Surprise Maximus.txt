@@ -1,0 +1,17 @@
+/  1346 Yorkshire Surprise Maximus
+/  Code M W Thewsey
+
+12 bells
+comp = WH,WsH,HC
+
+WH  = P,P,P,P,P,B,P,P,P,P,B
+WsH = P,P,P,P,P,B,P,P,P,P,S
+HC  = P,P,P,P,P,P,+x3T
+
+P = Cambridge, +12,  "  @"
+B = Cambridge, +14,  "- @"
+S = Cambridge, +1234,"s @"
+
+Cambridge = &X3TX14X125TX36X147TX58X169TX70X18X9TX10XET
+
+/HC = Half Course

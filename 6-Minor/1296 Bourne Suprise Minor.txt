@@ -1,0 +1,19 @@
+/  1296 Bourne Suprise Minor
+/  Code M W Thewsey
+
+6 bells
+
+Comp =  3 (B,I,B,IH),l
+2 extents
+
+B  = B,P
+I  = P,P,P,B,P,P,P,P
+IH = P,P,P,B,P,P,P,B
+
+
+P = Bourne, +12,  "  @"
+B = Bourne, +14,  "- @"
+S = Bourne, +1234,"s @"
+l = "----------"
+
+Bourne = &x36x14x12x36x34x36

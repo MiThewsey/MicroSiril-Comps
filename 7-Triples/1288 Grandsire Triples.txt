@@ -1,0 +1,16 @@
+/  1288 Grandsire Triples
+/  Composed by R William Willans
+/  Code M W Thewsey
+
+7 bells
+
+Comp = 4 Part
+Part = B,P,P,P,P,S,B,P,P,P,S,P,P,P,B,P,P,P,B,P,P,P,S,L
+ 
+
+P = Grandsire, +7.1,  "  @"
+B = Grandsire, +3.1,  "- @"
+S = Grandsire, +3.123,"s @"
+L = "------------"
+
+Grandsire= +3.1.7.1.7.1.7.1.7.1.7.1

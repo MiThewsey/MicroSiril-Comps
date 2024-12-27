@@ -1,0 +1,15 @@
+/  1344 St Clement's College Bob Major
+/  Code M W Thewsey
+
+8 bells
+comp = WH,W,WH,W,WH,sW,WH,W,WH,W,WH,sW
+
+WH = P,P,P,P,P,B,B 
+W  = P,P,P,P,P,B,P
+sW = P,P,P,P,P,S,P
+
+P = StClements, +12,  "  @"
+B = StClements, +14,  "- @"
+S = StClements, +1234,"s @"
+
+StClements = &x18x38x38x38

@@ -1,0 +1,22 @@
+/  5120 Yorkshire Surprise Major
+/  Donald F Morrison - 6974
+/  Code M W Thewsey
+
+8 bells
+
+Peal = 4 Part
+Part = B,BsH,sH,BH,H,H,sM
+
+B    = P,O,P,P
+BsH  = P,O,P,S
+sH   = P,P,P,P,P,P,S
+BH   = P,O,P,O
+H    = P,P,P,P,P,P,O
+sM   = P,P,S,P,P,P,P
+
+
+P = Yorkshire, +12,   "  @"
+O = Yorkshire, +14,   "- @"
+S = Yorkshire, +1234, "s @"
+
+Yorkshire = &X38X14X58X16X12X38X14X78

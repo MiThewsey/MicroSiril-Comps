@@ -1,0 +1,20 @@
+/  1269 Plain Bob Doubles
+/  Composer - Donald F Morrison (no. 2290)
+/  Code M W Thewsey
+
+5 bells
+11 extents
+
+QP = 3 Part360, Part189
+
+Part360 = 3 OMIH
+Part189 = OMIH, OM, Plainbob
+
+OMIH = P,B,P,P,P,B,P,P,P,B,P,B,l
+OM = P,B,P,P,P,B,l
+
+P = Plainbob, +125, "  @"
+B = Plainbob, +145, "- @"
+l = "---------"
+
+PlainBob = +5.1.5.1.5.1.5.1.5

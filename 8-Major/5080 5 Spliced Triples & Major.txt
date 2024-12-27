@@ -1,0 +1,48 @@
+/  5080 5 Spliced Triples & Major
+/  Composed by P W J Deakin
+/  Code M W Thewsey
+
+8 bells
+
+Peal = 5 Part
+
+Part = B1, B2a, B2b, B3, B4, B4, B3, B5, PartEnd
+
+B1  = Cp,Up,Us,Cs,Ls
+B2a = Cp,Ub,Lp,Ub,Bp,Ub,Bp,Up,Up,Cs,Lp
+B2b = Serin,Sp,Qp,Sp,Qb,Sb,Qp,Sp,Qp,Sp,Qp,Sp,Qp,Sp,Qp
+B3  = Sp,Qp,Sp,Qb,Sb,Qb,Sb,Qp,Sp,Qp,Sp,Qp,Sp,Qp
+B4  = Sp,Qb,Sb,Qb,Sb,Qb,Sb,Qp,Sp,Qp,Sp,Qp,Sp,Qp
+B5  = Sp,Qp,Sp,Qp,Sp,Qb,Sb,Qp,Sp,Qp,Sp,Qp,Sp,Q
+
+Cp = C, +12,    "  @ C"
+Cb = C, +14,    "- @ C"
+Cs = C, +1234,  "s @ C"
+
+Up = U, +12,    "  @ U"
+Ub = U, +14,    "- @ U"
+Us = U, +1234,  "s @ U"
+
+Bp = B, +18,    "  @ B"
+Bb = B, +14,    "- @ B"
+Bs = B, +1234,  "s @ B"
+
+Lp = L, +12,    "  @ L"
+Lb = L, +14,    "- @ L"
+Ls = L, +1234,  "s @ L"
+
+Sp = S, +7,   "  @ S"
+Sb = S, +5,   "- @ S"
+Qp = Q, +7,   "  @ Q"
+Qb = Q, +5,   "- @ Q"
+
+PartEnd = "------------"
+
+C = &x38x14x1258x36x14x58x16x78
+U = &x36x14x58x36x14x58x36x78
+B = &x58x14.58x58.36.14x14.58x14x18
+L = &38x38.14x12x38.14x14.58.16x16.58
+
+Serin = +7, "  @ Erin"
+S = +3.1.3.1.3
+Q = +1.3.1.3.1

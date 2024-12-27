@@ -1,0 +1,21 @@
+/  1260 Cambridge Surprise Royal
+/  Composed by D.Brady No.194
+/  Arranged by M W Thewsey
+/  Code M W Thewsey
+
+10 bells
+comp = H,sH,W,WMH,MH,WH,sH
+
+H    = P,P,P,P,P,P,P,P,B
+sH   = P,P,P,P,P,P,P,P,S
+W    = B,P,P,P,P,P,P,P,P
+WMH  = B,P,P,P,P,P,P,B,B
+MH   = P,P,P,P,P,P,P,B,B
+WH   = B,P,P,P,P,P,P,P,B
+
+P = PlainBob, +12,  "  @"
+B = PlainBob, +14,  "- @"
+S = PlainBob, +1234,"s @"
+
+PlainBob = &x10x10x10x10x10
+

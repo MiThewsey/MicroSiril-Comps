@@ -1,0 +1,14 @@
+/  1320 Julie McDonnell New Bob Cinques
+/  Code M W Thewsey
+
+11 bells
+comp = 2 (H, sH, H)
+
+H  = P,P,P,P,P,P,P,P,P,B
+sH = P,P,P,P,P,P,P,P,P,S
+
+P = JulieMcDonnell, +129,  "  @"
+B = JulieMcDonnell, +149,  "- @"
+S = JulieMcDonnell, +12349,"s @"
+
+JulieMcDonnell= &E.1.E.3.E.123.E.123.E.123.E

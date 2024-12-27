@@ -1,0 +1,24 @@
+/  1440 (1320) Julie McDonnell Delight Minor
+/  Code M W Thewsey
+
+6 bells
+2 extents 
+
+/1440
+/Comp = 3 (F,IO,FH,IO)
+
+/1320
+Comp = 2 (F,IO,FH,IO), (F,IO,FsH) 
+
+
+F  = P,B,P,P,P
+IO = B,P,B,P,P
+FH = P,B,P,P,B
+FsH= P,B,P,P,S
+
+P = JulieMcDonnell, +12,    "  @"
+B = JulieMcDonnell, +14,    "- @"
+S = JulieMcDonnell, +1234,  "s @"
+l = "----------"
+
+JulieMcDonnell = &x34x14x12x16x12x1256

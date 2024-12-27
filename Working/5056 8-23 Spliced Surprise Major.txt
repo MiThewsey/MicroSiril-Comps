@@ -1,0 +1,55 @@
+/  5056 8-23 Spliced Surprise Major
+/  Composed by J R Ridley
+/  Code M W Thewsey
+
+8 bells
+
+Peal = 7 Part
+
+
+Part = 
+
+
+
+
+Cp = C, +12,    "  @ C"
+Cb = C, +14,    "- @ C"
+Cs = C, +1234,  "s @ C"
+
+Yp = Y, +12,    "  @ Y"
+Yb = Y, +14,    "- @ Y"
+Ys = Y, +1234,  "s @ Y"
+
+Np = N, +12,    "  @ N"
+Nb = N, +14,    "- @ N"
+Ns = N, +1234,  "s @ N"
+
+Rp = R, +12,    "  @ R"
+Rb = R, +14,    "- @ R"
+Rs = R, +1234,  "s @ R"
+
+Sp = S, +12,    "  @ S"
+Sb = S, +14,    "- @ S"
+Ss = S, +1234,  "s @ S"
+
+Pp = P, +12,    "  @ P"
+Pb = P, +14,    "- @ P"
+Ps = P, +1234,  "s @ P"
+
+Bp = B, +18,    "  @ B"
+Bb = B, +14,    "- @ B"
+Bs = B, +1234,  "s @ B"
+
+Lp = L, +12,    "  @ L"
+Lb = L, +14,    "- @ L"
+Ls = L, +1234,  "s @ L"
+
+
+C = &x38x14x1258x36x14x58x16x78
+Y = &X38X14X58X16X12X38X14X78
+N = &x38x14x58x16x14x58x36x78
+R = &x38x14x58x16x14x38x34x18
+S = &x36x14x58x36x14x58x36x78
+P = &x58x16x12x38x14x58x16x78
+B = &x58x14.58x58.36.14x14.58x14x18
+L = &38x38.14x12x38.14x14.58.16x16.58

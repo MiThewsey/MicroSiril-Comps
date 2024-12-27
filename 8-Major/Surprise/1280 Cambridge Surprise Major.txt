@@ -1,0 +1,20 @@
+/  1280 CambridgeSurprise Major
+/  Code M W Thewsey
+/  Complib ID: 11910
+
+8 bells
+comp = M,Bf,WH,sMSwH,H,BfH,BfH
+
+WH    = P,P,P,B,P,P,B
+M     = P,P,B,P,P,P,P
+Bf    = P,B,P,P
+sMsWH = P,P,S,S,P,P,B
+H     = P,P,P,P,P,P,B
+BfH   = P,B,P,B
+
+
+P = Cambridge, +12,  "  @"
+B = Cambridge, +14,  "- @"
+S = Cambridge, +1234,"s @"
+
+Cambridge = &x38x14x1258x36x14x58x16x78

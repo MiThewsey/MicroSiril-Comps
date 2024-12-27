@@ -1,0 +1,17 @@
+/  1250 Yorkshire Surprise Major
+/  Code M W Thewsey
+/  +x38 give two more blows after lead end
+
+8 bells
+comp = H,H,W,WH,H,sW,+x38
+
+H  = P,P,P,P,P,P,B
+W  = P,P,P,B,P,P,P
+WH = P,P,P,B,P,P,B
+sW = P,P,P,S
+
+P = Yorkshire, +12,  "  @"
+B = Yorkshire, +14,  "- @"
+S = Yorkshire, +1234,"s @"
+
+Yorkshire = &X38X14X58X16X12X38X14X78

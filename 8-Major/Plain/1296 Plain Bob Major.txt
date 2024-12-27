@@ -1,0 +1,16 @@
+/  1296 Plain Bob Major
+/  Code M W Thewsey
+
+8 bells
+comp = 3 (WBH, WBBH, WBBBH, l) 
+
+WBH   = B,P,P,B,P,P,P,B 
+WBBH  = B,P,P,B,B,P,P,P,B
+WBBBH = B,P,P,B,B,B,P,P,P,B
+
+P = PlainBob, +12,  "  @"
+B = PlainBob, +14,  "- @"
+S = PlainBob, +1234,"s @"
+l = "----------"
+
+PlainBob = &x18x18x18x18

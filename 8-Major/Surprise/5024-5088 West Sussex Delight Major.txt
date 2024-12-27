@@ -1,0 +1,28 @@
+/  5024/5088 West Sussex Delight Major
+/  Composed by J R Ridley
+/  Code M W Thewsey
+
+8 bells
+
+/5024
+Peal = PartA, PartB, PartB
+PartA = MB,MW,MH,BWH,H,H,WH,MBWH
+PartB = MB,MW,MH,BWH,MBWH,H,WH,MBWH
+
+/5088
+/Peal = 3 Part
+/Part = MB,MW,MH,BWH,H,H,WH,MBWH  
+
+
+MB    = B,P,B,P,P,P
+MW    = B,P,P,P,P,B,P
+MH    = B,P,P,P,P,P,B
+BWH   = P,P,B,P,B,B
+H     = P,P,P,P,P,P,B
+WH    = P,P,P,P,P,B,B
+MBWH  = B,P,B,P,B,B
+
+P = WestSussex, +12,  "  @"
+B = WestSussex, +14,  "- @"
+
+WestSussex = &X38X14X58x16x14x18x1234x18

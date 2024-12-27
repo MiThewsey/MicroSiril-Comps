@@ -1,0 +1,43 @@
+/  5056/5120 CYNR Spliced Surprise Major
+/  Composed by P G K Davies
+/  Code M W Thewsey
+
+
+8 bells
+
+/5056
+Peal = PartB, 4 PartA
+
+/5120
+/Peal = 5 PartA
+
+PartA = Cp,Cp,Cp,Yb,Cp,Cp,Cb,
+        Yp,Cp,Yp,Cp,Np,Np,Nb,
+        Yp,Yp,Np,Np,Yp,Yp,Yb,
+        Np,Nb,Np,Yb,
+        Rp,Rp,Rp,Rp,Rp,Rp,Rb
+
+PartB = Cp,Cp,Cp,Yb,Cp,Cp,Cb,
+        Yp,Cp,Yp,Cp,Np,Np,Nb,
+        Yp,Yp,Np,Np,Rb,
+        Np,Nb,Np,Yb,
+        Rp,Rp,Rp,Rp,Rp,Rp,Rb
+
+
+Cp = C, +12,  "  @"
+Cb = C, +14,  "- @"
+
+Yp = Y, +12,  "  @"
+Yb = Y, +14,  "- @"
+
+Np = N, +12,  "  @"
+Nb = N, +14,  "- @"
+
+Rp = R, +12,  "  @"
+Rb = R, +14,  "- @"
+
+
+C = &x38x14x1258x36x14x58x16x78
+Y = &X38X14X58X16X12X38X14X78
+N = &x38x14x58x16x14x58x36x78
+R = &x38x14x58x16x14x38x34x18

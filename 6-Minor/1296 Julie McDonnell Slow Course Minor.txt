@@ -1,0 +1,16 @@
+/  1296 Julie McDonnell Slow Course Minor
+/  Code M W Thewsey
+
+6 bells
+2 extents
+
+Comp = 3 Part720, 3 Part576
+
+Part720 = P,B,3P,B,P,B,3P,B,3P,B,P,B,P,B,l
+Part576 = 2P,B,B,B,3P,B,B,2P,B,P,B,P,l
+
+P = JulieMcDonnell, +12,  "  @"
+B = JulieMcDonnell, +14,  "- @"
+l = "----------"
+
+JulieMcDonnell = &x14x1236.12.1256

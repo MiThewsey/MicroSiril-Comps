@@ -1,0 +1,27 @@
+/  5088 Quito Surprise Major
+/  Donald F Morrison - 2862
+/  Code M W Thewsey
+
+8 bells
+
+Peal = 3 Part
+Part = MWH,sWH,WH,MH,sMW,W,Bf,WH
+
+MWH  = P,P,B,B,P,P,B
+sWH  = P,P,P,S,P,P,B
+WH   = P,P,P,B,P,P,B
+MH   = P,P,B,P,P,P,B
+sMW  = P,P,S,B,P,P,P
+W    = P,P,P,B,P,P,P
+Bf   = P,B,P,P
+
+P = Quito, +12,   "  @"
+B = Quito, +14,   "- @"
+S = Quito, +1234, "s @"
+
+Quito = &x38x14x1258x1236x1234x1458x16x78
+
+/234
+/423
+/342
+/234
