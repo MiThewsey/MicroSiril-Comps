@@ -1,0 +1,22 @@
+/  1440 Carlisle Surprise Minor
+/  Code M W Thewsey
+/  https://complib.org/composition/127011?substitutedmethodid=15095
+
+6 bells
+2 extents
+
+Comp =  3 Part
+
+Part = I,OII,F,F
+
+I   = P,P,P,B,P,P
+OII = P,P,B,P,B,B,P,P
+F   = P,B,P
+
+
+P = Carlisle, +12,  "  @"
+B = Carlisle, +14,  "- @"
+S = Carlisle, +1234,"s @"
+l = "----------"
+
+Carlisle = &34x36.14x12x36x14x56
